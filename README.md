@@ -1,9 +1,10 @@
-# 茶饼盒子 Tea Cake Box
+# 茶饼盒子
 一个用于存储和保护茶饼的 3D 打印茶饼盒子，支持直径 145mm、高度 25mm 的茶饼。该设计包括文字版和无文字版，可以根据需要自行添加文字。
 
 ## 文件夹结构
 - **noTitle 文件夹**：无标题文字的模型文件存放于此文件夹。
-- **百年单株 文件夹**：有标题文字的模型文件存放于此文件夹。
+- **百年单株 (Century-old Single Tree) 文件夹**：有标题文字的模型文件存放于此文件夹。
+- **BambuLab 文件夹**：包含适用于 Bambu Lab Studio 的 `teaCakeBoxCover_v1.0.3mf` 文件。
 
 ## 打印建议
 - **材料**：PLA
@@ -28,7 +29,8 @@ A 3D-printed tea cake box designed to store and preserve tea cakes with a diamet
 
 ## Folder Structure
 - **noTitle Folder**: Contains the model files without any text.
-- **百年单株 Folder**: Contains the model files with text.
+- **百年单株 (Century-old Single Tree) Folder**: Contains the model files with text.
+- **BambuLab Folder**: Contains the `teaCakeBoxCover_v1.0.3mf` file for use with Bambu Lab Studio.
 
 ## Printing Recommendations
 - **Material**: PLA
